@@ -1,1 +1,1 @@
-
+A traditional Sudoku puzzle (6x6) designed from scratch. An input file containing the data for the board setup must first be read in. Then, it's up to the user to fill in the rest of the squares. More info in the README. 
